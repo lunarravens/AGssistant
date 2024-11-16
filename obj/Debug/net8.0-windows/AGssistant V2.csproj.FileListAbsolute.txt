@@ -1,0 +1,17 @@
+L:\Desktop\SEXOOOO\AGssistant V2\bin\Debug\net8.0-windows\AGssistant V2.exe
+L:\Desktop\SEXOOOO\AGssistant V2\bin\Debug\net8.0-windows\AGssistant V2.deps.json
+L:\Desktop\SEXOOOO\AGssistant V2\bin\Debug\net8.0-windows\AGssistant V2.runtimeconfig.json
+L:\Desktop\SEXOOOO\AGssistant V2\bin\Debug\net8.0-windows\AGssistant V2.dll
+L:\Desktop\SEXOOOO\AGssistant V2\bin\Debug\net8.0-windows\AGssistant V2.pdb
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant_V2.Form1.resources
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.csproj.GenerateResource.cache
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.GeneratedMSBuildEditorConfig.editorconfig
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfoInputs.cache
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfo.cs
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.csproj.CoreCompileInputs.cache
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.dll
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\refint\AGssistant V2.dll
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.pdb
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\ref\AGssistant V2.dll
+L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant_V2.Properties.Resources.resources
