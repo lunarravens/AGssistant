@@ -16,3 +16,22 @@ L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\ref\AGssistant V2.dll
 L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant_V2.Properties.Resources.resources
 L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant_V2.telaInicial.resources
 L:\Desktop\SEXOOOO\AGssistant V2\obj\Debug\net8.0-windows\AGssistant_V2.Creditos.resources
+c:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.exe
+c:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.deps.json
+c:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.runtimeconfig.json
+c:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.dll
+c:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.pdb
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Creditos.resources
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Properties.Resources.resources
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.telaInicial.resources
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.csproj.GenerateResource.cache
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfoInputs.cache
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfo.cs
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.csproj.CoreCompileInputs.cache
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.sourcelink.json
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.dll
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\refint\AGssistant V2.dll
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.pdb
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
+c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\ref\AGssistant V2.dll

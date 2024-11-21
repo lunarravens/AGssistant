@@ -1,14 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.Diagnostics;
-using static System.Windows.Forms.DataFormats;
 
 namespace AGssistant_V2
 {
@@ -21,7 +11,16 @@ namespace AGssistant_V2
             this.FormBorderStyle = FormBorderStyle.FixedDialog; // Deixa sem poder redimensionar
             MaximizeBox = false; // Deixa só pra fechar a aba
             this.Text = "AGssistant - Página Inicial"; //Nome da guia, sempre mudar de uma guia pra outra :)
+            this.Size = new Size(1366, 768);
+            MinimizeBox = false;
+            MaximizeBox = false;
+
+            label1.BackColor = ColorTranslator.FromHtml("#1c5560");
+            label16.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.CenterToScreen();
         }
+
 
         private void telaInicial_Load(object sender, EventArgs e)
         {
@@ -72,14 +71,6 @@ namespace AGssistant_V2
 
         }
 
-        // Botão para redirecionar a tela de créditos
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Creditos Creditos = new Creditos();
-            this.Hide();
-            Creditos.Show();
-        }
-
         private void label11_Click(object sender, EventArgs e)
         {
 
@@ -90,6 +81,53 @@ namespace AGssistant_V2
         {
             string url = "https://forms.gle/dW7cwo1Yv61Jkt2a8";
             Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+            Creditos creditos = new Creditos();
+            this.Hide();
+            creditos.Show();
+        }
+
+        private void label2_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label16_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

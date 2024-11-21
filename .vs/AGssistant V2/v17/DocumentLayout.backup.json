@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ely\\Projects\\AGssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "telaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
+              "RelativeDocumentMoniker": "telaInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
+              "RelativeToolTip": "telaInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:10:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "telaInicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
+              "RelativeDocumentMoniker": "telaInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs [Design]",
+              "RelativeToolTip": "telaInicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:10:13.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creditos.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Creditos.cs",
+              "RelativeDocumentMoniker": "Creditos.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Creditos.cs",
+              "RelativeToolTip": "Creditos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:04:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Creditos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Creditos.cs",
+              "RelativeDocumentMoniker": "Creditos.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Creditos.cs [Design]",
+              "RelativeToolTip": "Creditos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:04:01.548Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

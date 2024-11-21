@@ -28,96 +28,165 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Label label7;
-            Label label6;
-            panel1 = new Panel();
-            label11 = new Label();
-            panel6 = new Panel();
-            label7 = new Label();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Creditos));
+            label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
             label6 = new Label();
-            panel1.SuspendLayout();
+            label7 = new Label();
+            label8 = new Label();
+            label9 = new Label();
+            label10 = new Label();
+            label11 = new Label();
+            label12 = new Label();
+            label13 = new Label();
             SuspendLayout();
             // 
-            // label7
+            // label1
             // 
-            label7.AutoEllipsis = true;
-            label7.BackColor = Color.Transparent;
-            label7.CausesValidation = false;
-            label7.Cursor = Cursors.IBeam;
-            label7.Font = new Font("Gadugi", 18.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.ForeColor = SystemColors.ButtonHighlight;
-            label7.Location = new Point(703, 59);
-            label7.Name = "label7";
-            label7.Size = new Size(106, 35);
-            label7.TabIndex = 6;
-            label7.Text = "Créditos";
-            label7.UseCompatibleTextRendering = true;
-            label7.Click += label7_Click;
+            label1.Image = (Image)resources.GetObject("label1.Image");
+            label1.Location = new Point(-1, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(1352, 150);
+            label1.TabIndex = 0;
+            // 
+            // label2
+            // 
+            label2.Image = (Image)resources.GetObject("label2.Image");
+            label2.Location = new Point(24, 21);
+            label2.Name = "label2";
+            label2.Size = new Size(112, 112);
+            label2.TabIndex = 1;
+            label2.Click += label2_Click_1;
+            // 
+            // label3
+            // 
+            label3.Image = (Image)resources.GetObject("label3.Image");
+            label3.Location = new Point(12, 150);
+            label3.Name = "label3";
+            label3.Size = new Size(857, 233);
+            label3.TabIndex = 2;
+            // 
+            // label4
+            // 
+            label4.Image = (Image)resources.GetObject("label4.Image");
+            label4.Location = new Point(24, 383);
+            label4.Name = "label4";
+            label4.Size = new Size(607, 143);
+            label4.TabIndex = 3;
+            // 
+            // label5
+            // 
+            label5.Image = (Image)resources.GetObject("label5.Image");
+            label5.Location = new Point(875, 229);
+            label5.Name = "label5";
+            label5.Size = new Size(463, 130);
+            label5.TabIndex = 4;
             // 
             // label6
             // 
-            label6.AutoEllipsis = true;
-            label6.BackColor = Color.Transparent;
-            label6.CausesValidation = false;
-            label6.Cursor = Cursors.IBeam;
-            label6.Font = new Font("Bahnschrift SemiBold", 38.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.ForeColor = SystemColors.ButtonHighlight;
-            label6.Location = new Point(543, 14);
+            label6.Image = (Image)resources.GetObject("label6.Image");
+            label6.Location = new Point(932, 150);
             label6.Name = "label6";
-            label6.Size = new Size(423, 45);
-            label6.TabIndex = 6;
-            label6.Text = "AGssistant";
-            label6.TextAlign = ContentAlignment.TopCenter;
-            label6.UseCompatibleTextRendering = true;
+            label6.Size = new Size(350, 79);
+            label6.TabIndex = 5;
             // 
-            // panel1
+            // label7
             // 
-            panel1.BackColor = Color.FromArgb(28, 85, 96);
-            panel1.Controls.Add(label11);
-            panel1.Controls.Add(label7);
-            panel1.Controls.Add(label6);
-            panel1.Dock = DockStyle.Top;
-            panel1.Location = new Point(0, 0);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(1520, 110);
-            panel1.TabIndex = 1;
+            label7.Image = (Image)resources.GetObject("label7.Image");
+            label7.Location = new Point(925, 359);
+            label7.Name = "label7";
+            label7.Size = new Size(357, 80);
+            label7.TabIndex = 6;
+            // 
+            // label8
+            // 
+            label8.Image = (Image)resources.GetObject("label8.Image");
+            label8.Location = new Point(875, 439);
+            label8.Name = "label8";
+            label8.Size = new Size(463, 130);
+            label8.TabIndex = 7;
+            // 
+            // label9
+            // 
+            label9.Image = (Image)resources.GetObject("label9.Image");
+            label9.Location = new Point(70, 633);
+            label9.Name = "label9";
+            label9.Size = new Size(302, 87);
+            label9.TabIndex = 8;
+            // 
+            // label10
+            // 
+            label10.Image = (Image)resources.GetObject("label10.Image");
+            label10.Location = new Point(378, 633);
+            label10.Name = "label10";
+            label10.Size = new Size(302, 87);
+            label10.TabIndex = 9;
             // 
             // label11
             // 
-            label11.BackColor = Color.Transparent;
-            label11.Image = Properties.Resources.homeButton;
-            label11.Location = new Point(16, 5);
+            label11.Image = (Image)resources.GetObject("label11.Image");
+            label11.Location = new Point(686, 633);
             label11.Name = "label11";
-            label11.Size = new Size(87, 101);
-            label11.TabIndex = 6;
+            label11.Size = new Size(302, 87);
+            label11.TabIndex = 10;
             // 
-            // panel6
+            // label12
             // 
-            panel6.BackColor = Color.FromArgb(28, 85, 96);
-            panel6.Location = new Point(16, 132);
-            panel6.Name = "panel6";
-            panel6.Size = new Size(793, 94);
-            panel6.TabIndex = 7;
+            label12.Image = (Image)resources.GetObject("label12.Image");
+            label12.Location = new Point(994, 633);
+            label12.Name = "label12";
+            label12.Size = new Size(302, 87);
+            label12.TabIndex = 11;
+            // 
+            // label13
+            // 
+            label13.Image = (Image)resources.GetObject("label13.Image");
+            label13.Location = new Point(550, 546);
+            label13.Name = "label13";
+            label13.Size = new Size(302, 87);
+            label13.TabIndex = 12;
             // 
             // Creditos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(251, 255, 205);
-            ClientSize = new Size(1520, 825);
-            Controls.Add(panel6);
-            Controls.Add(panel1);
+            ClientSize = new Size(1350, 729);
+            Controls.Add(label13);
+            Controls.Add(label12);
+            Controls.Add(label11);
+            Controls.Add(label10);
+            Controls.Add(label9);
+            Controls.Add(label8);
+            Controls.Add(label7);
+            Controls.Add(label6);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Name = "Creditos";
             Text = "Creditos";
-            Load += Creditos_Load;
-            panel1.ResumeLayout(false);
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Panel panel1;
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private Label label4;
+        private Label label5;
+        private Label label6;
+        private Label label7;
+        private Label label8;
+        private Label label9;
+        private Label label10;
         private Label label11;
-        private Panel panel6;
+        private Label label12;
+        private Label label13;
     }
 }
