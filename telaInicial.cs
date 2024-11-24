@@ -138,5 +138,12 @@ namespace AGssistant_V2
             this.Hide();
             corpo.Show();
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            menteInicial menteInicial = new menteInicial();
+            this.Hide();
+            menteInicial.Show();
+        }
     }
 }

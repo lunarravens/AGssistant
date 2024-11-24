@@ -178,6 +178,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Creditos";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Creditos";
             ResumeLayout(false);
         }

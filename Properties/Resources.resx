@@ -118,26 +118,59 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BemVindo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\BemVindo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="shieldSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\shieldSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="headerCorpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\headerCorpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="headerMental" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\headerMental.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeaderInicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\HeaderInicial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BemVindo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\BemVindo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mindSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\mindSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Idoso inicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Idoso inicial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="strSymbol2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\strSymbol2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconInterroga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\iconInterroga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\idoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="homeButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\homeButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="headerCorpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\headerCorpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enqueteButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\enqueteButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="HeaderInicial1366" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\HeaderInicial1366.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="idoso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\idoso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="textstartMente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\textstartMente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="iconInterrogakhazix2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\iconInterrogakhazix2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,58 +178,34 @@
   <data name="strSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\strSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="idoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\idoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iconInterroga" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\iconInterroga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconInterroga2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\iconInterroga2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="botaoEnquete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\botaoEnquete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mindSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\mindSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="iconInterrogakhazix" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\iconInterrogakhazix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="enqueteButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\enqueteButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Vector(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Vector(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="homeButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\homeButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="image 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idoso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\idoso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iconInterroga2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\iconInterroga2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="HeaderInicial" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\HeaderInicial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="strSymbol2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\strSymbol2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Vector(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\Vector(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mental1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\mental1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
