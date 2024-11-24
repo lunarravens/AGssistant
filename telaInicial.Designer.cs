@@ -74,6 +74,7 @@ namespace AGssistant_V2
             // 
             // label1
             // 
+            label1.Cursor = Cursors.Hand;
             label1.Image = Properties.Resources.iconInterrogakhazix2;
             label1.Location = new Point(1229, 32);
             label1.Name = "label1";
@@ -107,6 +108,7 @@ namespace AGssistant_V2
             // 
             // label7
             // 
+            label7.Cursor = Cursors.Hand;
             label7.Image = Properties.Resources.image_10;
             label7.Location = new Point(918, 424);
             label7.Name = "label7";
@@ -116,6 +118,7 @@ namespace AGssistant_V2
             // 
             // label8
             // 
+            label8.Cursor = Cursors.Hand;
             label8.Image = (Image)resources.GetObject("label8.Image");
             label8.Location = new Point(918, 257);
             label8.Name = "label8";
@@ -125,6 +128,7 @@ namespace AGssistant_V2
             // 
             // label9
             // 
+            label9.Cursor = Cursors.Hand;
             label9.Image = Properties.Resources.image_9;
             label9.Location = new Point(918, 338);
             label9.Name = "label9";
