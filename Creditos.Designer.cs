@@ -54,7 +54,7 @@
             // 
             // label2
             // 
-            label2.Image = (Image)resources.GetObject("label2.Image");
+            label2.Image = Properties.Resources.homeButton;
             label2.Location = new Point(24, 21);
             label2.Name = "label2";
             label2.Size = new Size(112, 112);
@@ -72,7 +72,7 @@
             // label4
             // 
             label4.Image = (Image)resources.GetObject("label4.Image");
-            label4.Location = new Point(24, 383);
+            label4.Location = new Point(139, 383);
             label4.Name = "label4";
             label4.Size = new Size(607, 143);
             label4.TabIndex = 3;
@@ -80,33 +80,33 @@
             // label5
             // 
             label5.Image = (Image)resources.GetObject("label5.Image");
-            label5.Location = new Point(875, 229);
+            label5.Location = new Point(873, 225);
             label5.Name = "label5";
-            label5.Size = new Size(463, 130);
+            label5.Size = new Size(463, 119);
             label5.TabIndex = 4;
             // 
             // label6
             // 
             label6.Image = (Image)resources.GetObject("label6.Image");
-            label6.Location = new Point(932, 150);
+            label6.Location = new Point(930, 159);
             label6.Name = "label6";
-            label6.Size = new Size(350, 79);
+            label6.Size = new Size(350, 66);
             label6.TabIndex = 5;
             // 
             // label7
             // 
             label7.Image = (Image)resources.GetObject("label7.Image");
-            label7.Location = new Point(925, 359);
+            label7.Location = new Point(923, 344);
             label7.Name = "label7";
-            label7.Size = new Size(357, 80);
+            label7.Size = new Size(357, 70);
             label7.TabIndex = 6;
             // 
             // label8
             // 
             label8.Image = (Image)resources.GetObject("label8.Image");
-            label8.Location = new Point(875, 439);
+            label8.Location = new Point(873, 414);
             label8.Name = "label8";
-            label8.Size = new Size(463, 130);
+            label8.Size = new Size(463, 123);
             label8.TabIndex = 7;
             // 
             // label9

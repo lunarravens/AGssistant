@@ -125,9 +125,18 @@ namespace AGssistant_V2
 
         }
 
+        // Botão para redirecionar ao formulário
         private void label16_Click_1(object sender, EventArgs e)
         {
+            string url = "https://forms.gle/dW7cwo1Yv61Jkt2a8";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
 
+        private void label8_Click_1(object sender, EventArgs e)
+        {
+            Corpo corpo = new Corpo();
+            this.Hide();
+            corpo.Show();
         }
     }
 }

@@ -83,7 +83,7 @@ namespace AGssistant_V2
             // 
             // label3
             // 
-            label3.Image = (Image)resources.GetObject("label3.Image");
+            label3.Image = Properties.Resources.BemVindo;
             label3.Location = new Point(474, 169);
             label3.Name = "label3";
             label3.Size = new Size(427, 551);
@@ -91,7 +91,7 @@ namespace AGssistant_V2
             // 
             // label5
             // 
-            label5.Image = (Image)resources.GetObject("label5.Image");
+            label5.Image = Properties.Resources.idoso;
             label5.Location = new Point(12, 155);
             label5.Name = "label5";
             label5.Size = new Size(456, 568);
@@ -99,7 +99,7 @@ namespace AGssistant_V2
             // 
             // label6
             // 
-            label6.Image = (Image)resources.GetObject("label6.Image");
+            label6.Image = Properties.Resources.image_7;
             label6.Location = new Point(897, 169);
             label6.Name = "label6";
             label6.Size = new Size(453, 88);
@@ -107,7 +107,7 @@ namespace AGssistant_V2
             // 
             // label7
             // 
-            label7.Image = (Image)resources.GetObject("label7.Image");
+            label7.Image = Properties.Resources.image_10;
             label7.Location = new Point(918, 424);
             label7.Name = "label7";
             label7.Size = new Size(409, 85);
@@ -121,10 +121,11 @@ namespace AGssistant_V2
             label8.Name = "label8";
             label8.Size = new Size(409, 81);
             label8.TabIndex = 15;
+            label8.Click += label8_Click_1;
             // 
             // label9
             // 
-            label9.Image = (Image)resources.GetObject("label9.Image");
+            label9.Image = Properties.Resources.image_9;
             label9.Location = new Point(918, 338);
             label9.Name = "label9";
             label9.Size = new Size(409, 86);
@@ -140,11 +141,13 @@ namespace AGssistant_V2
             // 
             // label16
             // 
+            label16.Cursor = Cursors.Hand;
             label16.Image = (Image)resources.GetObject("label16.Image");
             label16.Location = new Point(975, 586);
             label16.Name = "label16";
             label16.Size = new Size(300, 124);
             label16.TabIndex = 18;
+            label16.Text = "         ";
             label16.Click += label16_Click_1;
             // 
             // telaInicial

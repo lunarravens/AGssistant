@@ -35,3 +35,4 @@ c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\refint\AGssistant V2.d
 c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.pdb
 c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
 c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\ref\AGssistant V2.dll
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Corpo.resources
