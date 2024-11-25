@@ -36,3 +36,10 @@ c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.pdb
 c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
 c:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\ref\AGssistant V2.dll
 C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Corpo.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Corpo2.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Corpo3.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.SegurancaInicial.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Seguranca2.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.MenteInicial.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Mente2.resources
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Mente3.resources

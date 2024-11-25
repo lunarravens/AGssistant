@@ -44,6 +44,7 @@ namespace AGssistant_V2
             label9 = new Label();
             label10 = new Label();
             label16 = new Label();
+            label18 = new Label();
             SuspendLayout();
             // 
             // imageList1
@@ -134,6 +135,7 @@ namespace AGssistant_V2
             label9.Name = "label9";
             label9.Size = new Size(409, 86);
             label9.TabIndex = 16;
+            label9.Click += label9_Click;
             // 
             // label10
             // 
@@ -154,12 +156,22 @@ namespace AGssistant_V2
             label16.Text = "         ";
             label16.Click += label16_Click_1;
             // 
+            // label18
+            // 
+            label18.Image = Properties.Resources.Vector_1_;
+            label18.Location = new Point(24, 21);
+            label18.Name = "label18";
+            label18.Size = new Size(112, 112);
+            label18.TabIndex = 19;
+            label18.Click += label18_Click;
+            // 
             // telaInicial
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(251, 255, 205);
             ClientSize = new Size(1350, 729);
+            Controls.Add(label18);
             Controls.Add(label16);
             Controls.Add(label10);
             Controls.Add(label9);
@@ -205,5 +217,6 @@ namespace AGssistant_V2
         private Label label9;
         private Label label10;
         private Label label16;
+        private Label label18;
     }
 }

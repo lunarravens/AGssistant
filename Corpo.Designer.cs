@@ -34,6 +34,7 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
+            label6 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -58,7 +59,7 @@
             label3.Image = (Image)resources.GetObject("label3.Image");
             label3.Location = new Point(0, 155);
             label3.Name = "label3";
-            label3.Size = new Size(893, 578);
+            label3.Size = new Size(893, 580);
             label3.TabIndex = 2;
             // 
             // label4
@@ -76,6 +77,17 @@
             label5.Name = "label5";
             label5.Size = new Size(335, 161);
             label5.TabIndex = 4;
+            label5.Click += label5_Click;
+            // 
+            // label6
+            // 
+            label6.Cursor = Cursors.Hand;
+            label6.Image = Properties.Resources.iconInterrogakhazix2;
+            label6.Location = new Point(1229, 32);
+            label6.Name = "label6";
+            label6.Size = new Size(109, 98);
+            label6.TabIndex = 11;
+            label6.Click += label6_Click;
             // 
             // Corpo
             // 
@@ -83,6 +95,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 251, 205);
             ClientSize = new Size(1350, 729);
+            Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -90,6 +103,7 @@
             Controls.Add(label1);
             Name = "Corpo";
             Text = "Corpo";
+            Load += Corpo_Load;
             ResumeLayout(false);
         }
 
@@ -100,5 +114,6 @@
         private Label label3;
         private Label label4;
         private Label label5;
+        private Label label6;
     }
 }

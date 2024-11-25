@@ -17,6 +17,7 @@ namespace AGssistant_V2
 
             label1.BackColor = ColorTranslator.FromHtml("#1c5560");
             label16.BackColor = ColorTranslator.FromHtml("#1c5560");
+            label18.BackColor = ColorTranslator.FromHtml("#1c5560");
 
             this.CenterToScreen();
         }
@@ -122,7 +123,9 @@ namespace AGssistant_V2
 
         private void label7_Click_1(object sender, EventArgs e)
         {
-
+            SegurancaInicial segurancaInicial = new SegurancaInicial();
+            this.Hide();
+            segurancaInicial.Show();
         }
 
         // Botão para redirecionar ao formulário
@@ -137,6 +140,18 @@ namespace AGssistant_V2
             Corpo corpo = new Corpo();
             this.Hide();
             corpo.Show();
+        }
+
+        private void label18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            MenteInicial menteInicial = new MenteInicial();
+            this.Hide();
+            menteInicial.Show();
         }
     }
 }

@@ -27,6 +27,7 @@ namespace AGssistant_V2
             this.CenterToScreen();
 
             label2.BackColor = ColorTranslator.FromHtml("#1c5560");
+            label6.BackColor = ColorTranslator.FromHtml("#1c5560");
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -34,6 +35,25 @@ namespace AGssistant_V2
             telaInicial telaInicial = new telaInicial();
             telaInicial.Show();
             this.Hide();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Corpo2 corpo2 = new Corpo2();
+            corpo2.Show();
+            this.Hide();
+        }
+
+        private void Corpo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            Creditos creditos = new Creditos();
+            this.Hide();
+            creditos.Show();
         }
     }
 }
