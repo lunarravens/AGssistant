@@ -1,6 +1,6 @@
 ﻿namespace AGssistant_V2
 {
-    partial class menteInicial
+    partial class MenteInicial
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(menteInicial));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenteInicial));
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
@@ -69,6 +69,7 @@
             label5.Name = "label5";
             label5.Size = new Size(335, 161);
             label5.TabIndex = 13;
+            label5.Click += label5_Click;
             // 
             // label1
             // 
@@ -87,6 +88,7 @@
             label6.Name = "label6";
             label6.Size = new Size(109, 98);
             label6.TabIndex = 15;
+            label6.Click += label6_Click;
             // 
             // menteInicial
             // 

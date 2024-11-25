@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ely\\Projects\\AGssistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,38 +39,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "telaInicial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.Designer.cs",
-              "RelativeDocumentMoniker": "telaInicial.Designer.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.Designer.cs",
-              "RelativeToolTip": "telaInicial.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgv8IAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:54:19.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "telaInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
               "RelativeDocumentMoniker": "telaInicial.cs",
               "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs [Design]",
               "RelativeToolTip": "telaInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:53:03.6Z",
+              "WhenOpened": "2024-11-25T01:01:39.962Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Mente2.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeDocumentMoniker": "Mente2.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeToolTip": "Mente2.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:00:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mente2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeDocumentMoniker": "Mente2.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs [Design]",
+              "RelativeToolTip": "Mente2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:59:59.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menteInicial.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs",
+              "RelativeDocumentMoniker": "menteInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs",
+              "RelativeToolTip": "menteInicial.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:59:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "menteInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs",
               "RelativeDocumentMoniker": "menteInicial.cs",
               "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs [Design]",
               "RelativeToolTip": "menteInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:52:52.443Z",
+              "WhenOpened": "2024-11-25T00:59:10.454Z",
               "EditorCaption": " [Design]"
             }
           ]
