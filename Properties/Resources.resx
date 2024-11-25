@@ -124,9 +124,6 @@
   <data name="image 31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="pexels-photo-336948 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\pexels-photo-336948 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -178,6 +175,12 @@
   <data name="idoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\idoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="image 33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="headerCorpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\headerCorpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -214,8 +217,8 @@
   <data name="image3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="image 29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="botaoEnquete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\botaoEnquete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -250,7 +253,7 @@
   <data name="idoso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\idoso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="image 37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

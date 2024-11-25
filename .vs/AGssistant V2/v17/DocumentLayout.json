@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ely\\Projects\\AGssistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\seguranca2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:seguranca2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\segurancainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:segurancainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\segurancainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:segurancainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:mente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,38 +55,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "telaInicial.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
-              "RelativeDocumentMoniker": "telaInicial.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs [Design]",
-              "RelativeToolTip": "telaInicial.cs [Design]",
+              "Title": "Seguranca2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Seguranca2.cs",
+              "RelativeDocumentMoniker": "Seguranca2.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Seguranca2.cs [Design]",
+              "RelativeToolTip": "Seguranca2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:01:39.962Z",
+              "WhenOpened": "2024-11-25T01:39:51.761Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Mente2.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
-              "RelativeDocumentMoniker": "Mente2.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
-              "RelativeToolTip": "Mente2.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
+              "Title": "SegurancaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\SegurancaInicial.cs",
+              "RelativeDocumentMoniker": "SegurancaInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\SegurancaInicial.cs",
+              "RelativeToolTip": "SegurancaInicial.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:00:01.699Z",
+              "WhenOpened": "2024-11-25T01:38:22.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Mente2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
-              "RelativeDocumentMoniker": "Mente2.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs [Design]",
-              "RelativeToolTip": "Mente2.cs [Design]",
+              "Title": "SegurancaInicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\SegurancaInicial.cs",
+              "RelativeDocumentMoniker": "SegurancaInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\SegurancaInicial.cs [Design]",
+              "RelativeToolTip": "SegurancaInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:59:59.29Z",
+              "WhenOpened": "2024-11-25T01:38:21.035Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -81,9 +97,9 @@
               "RelativeDocumentMoniker": "menteInicial.cs",
               "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs",
               "RelativeToolTip": "menteInicial.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwC0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:59:23.495Z",
+              "WhenOpened": "2024-11-25T01:36:09.576Z",
               "EditorCaption": ""
             },
             {
@@ -95,7 +111,57 @@
               "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs [Design]",
               "RelativeToolTip": "menteInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:59:10.454Z",
+              "WhenOpened": "2024-11-25T01:36:05.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mente3.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente3.cs",
+              "RelativeDocumentMoniker": "Mente3.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente3.cs",
+              "RelativeToolTip": "Mente3.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:35:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mente3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente3.cs",
+              "RelativeDocumentMoniker": "Mente3.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente3.cs [Design]",
+              "RelativeToolTip": "Mente3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:35:27.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mente2.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeDocumentMoniker": "Mente2.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeToolTip": "Mente2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:35:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mente2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs",
+              "RelativeDocumentMoniker": "Mente2.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Mente2.cs [Design]",
+              "RelativeToolTip": "Mente2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:35:23.911Z",
               "EditorCaption": " [Design]"
             }
           ]

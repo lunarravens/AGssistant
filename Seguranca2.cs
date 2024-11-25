@@ -43,7 +43,9 @@ namespace AGssistant_V2
 
         private void label2_Click(object sender, EventArgs e)
         {
-
+            Creditos creditos = new Creditos();
+            this.Hide();
+            creditos.Show();
         }
 
         private void label5_Click(object sender, EventArgs e)
