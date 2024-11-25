@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ely\\Projects\\AGssistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\corpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:corpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|solutionrelative:menteinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8C196FD-0000-46E3-99A7-E8649174E61B}|AGssistant V2.csproj|c:\\users\\ely\\projects\\agssistant\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,102 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Corpo3.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo3.cs",
-              "RelativeDocumentMoniker": "Corpo3.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo3.cs",
-              "RelativeToolTip": "Corpo3.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "telaInicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.Designer.cs",
+              "RelativeDocumentMoniker": "telaInicial.Designer.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.Designer.cs",
+              "RelativeToolTip": "telaInicial.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgv8IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:27:14.337Z",
+              "WhenOpened": "2024-11-25T00:54:19.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Corpo2.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo2.cs",
-              "RelativeDocumentMoniker": "Corpo2.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo2.cs",
-              "RelativeToolTip": "Corpo2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:27:10.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Corpo.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo.cs",
-              "RelativeDocumentMoniker": "Corpo.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo.cs",
-              "RelativeToolTip": "Corpo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowB0AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:27:05.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "telaInicial.cs",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
-              "RelativeDocumentMoniker": "telaInicial.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
-              "RelativeToolTip": "telaInicial.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwHEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:27:00.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "telaInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs",
               "RelativeDocumentMoniker": "telaInicial.cs",
               "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\telaInicial.cs [Design]",
               "RelativeToolTip": "telaInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:26:57.857Z",
+              "WhenOpened": "2024-11-25T00:53:03.6Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Corpo3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo3.cs",
-              "RelativeDocumentMoniker": "Corpo3.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo3.cs [Design]",
-              "RelativeToolTip": "Corpo3.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "menteInicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs",
+              "RelativeDocumentMoniker": "menteInicial.cs",
+              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\menteInicial.cs [Design]",
+              "RelativeToolTip": "menteInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:26:42.211Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Corpo2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo2.cs",
-              "RelativeDocumentMoniker": "Corpo2.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo2.cs [Design]",
-              "RelativeToolTip": "Corpo2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:26:26.294Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Corpo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo.cs",
-              "RelativeDocumentMoniker": "Corpo.cs",
-              "ToolTip": "C:\\Users\\ely\\Projects\\AGssistant\\Corpo.cs [Design]",
-              "RelativeToolTip": "Corpo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:26:03.344Z",
+              "WhenOpened": "2024-11-25T00:52:52.443Z",
               "EditorCaption": " [Design]"
             }
           ]

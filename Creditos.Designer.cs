@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Creditos));
             label1 = new Label();
-            label2 = new Label();
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
@@ -42,6 +41,7 @@
             label11 = new Label();
             label12 = new Label();
             label13 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -51,16 +51,6 @@
             label1.Name = "label1";
             label1.Size = new Size(1352, 150);
             label1.TabIndex = 0;
-            // 
-            // label2
-            // 
-            label2.Cursor = Cursors.Hand;
-            label2.Image = Properties.Resources.homeButton;
-            label2.Location = new Point(24, 21);
-            label2.Name = "label2";
-            label2.Size = new Size(112, 112);
-            label2.TabIndex = 1;
-            label2.Click += label2_Click_1;
             // 
             // label3
             // 
@@ -158,12 +148,22 @@
             label13.Size = new Size(302, 87);
             label13.TabIndex = 12;
             // 
+            // label2
+            // 
+            label2.Image = Properties.Resources.Vector_1_;
+            label2.Location = new Point(24, 21);
+            label2.Name = "label2";
+            label2.Size = new Size(112, 112);
+            label2.TabIndex = 13;
+            label2.Click += label2_Click_2;
+            // 
             // Creditos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(251, 255, 205);
             ClientSize = new Size(1350, 729);
+            Controls.Add(label2);
             Controls.Add(label13);
             Controls.Add(label12);
             Controls.Add(label11);
@@ -175,9 +175,9 @@
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
-            Controls.Add(label2);
             Controls.Add(label1);
             Name = "Creditos";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Creditos";
             ResumeLayout(false);
         }
@@ -185,7 +185,6 @@
         #endregion
 
         private Label label1;
-        private Label label2;
         private Label label3;
         private Label label4;
         private Label label5;
@@ -197,5 +196,6 @@
         private Label label11;
         private Label label12;
         private Label label13;
+        private Label label2;
     }
 }

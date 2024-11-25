@@ -65,7 +65,7 @@
             // 
             // label4
             // 
-            label4.Image = Properties.Resources.image_37;
+            // label4.Image = Properties.Resources.image_37;
             label4.Location = new Point(0, 154);
             label4.Name = "label4";
             label4.Size = new Size(877, 576);

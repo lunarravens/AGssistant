@@ -89,6 +89,7 @@
             label6.Name = "label6";
             label6.Size = new Size(305, 283);
             label6.TabIndex = 15;
+            label6.Click += label6_Click;
             // 
             // SegurancaInicial
             // 

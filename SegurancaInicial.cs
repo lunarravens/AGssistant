@@ -51,5 +51,10 @@ namespace AGssistant_V2
             this.Hide();
             seguranca2.Show();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

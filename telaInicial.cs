@@ -149,7 +149,7 @@ namespace AGssistant_V2
 
         private void label9_Click(object sender, EventArgs e)
         {
-            MenteInicial menteInicial = new MenteInicial();
+            menteInicial menteInicial = new menteInicial();
             this.Hide();
             menteInicial.Show();
         }

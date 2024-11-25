@@ -102,6 +102,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Corpo";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Corpo";
             Load += Corpo_Load;
             ResumeLayout(false);

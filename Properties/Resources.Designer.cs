@@ -144,16 +144,6 @@ namespace AGssistant_V2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap homeButton {
-            get {
-                object obj = ResourceManager.GetObject("homeButton", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap iconInterroga {
             get {
                 object obj = ResourceManager.GetObject("iconInterroga", resourceCulture);
@@ -167,16 +157,6 @@ namespace AGssistant_V2.Properties {
         internal static System.Drawing.Bitmap iconInterroga2 {
             get {
                 object obj = ResourceManager.GetObject("iconInterroga2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap iconInterrogakhazix {
-            get {
-                object obj = ResourceManager.GetObject("iconInterrogakhazix", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -204,16 +184,6 @@ namespace AGssistant_V2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Idoso_inicial {
-            get {
-                object obj = ResourceManager.GetObject("Idoso inicial", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap idoso2 {
             get {
                 object obj = ResourceManager.GetObject("idoso2", resourceCulture);
@@ -227,16 +197,6 @@ namespace AGssistant_V2.Properties {
         internal static System.Drawing.Bitmap image {
             get {
                 object obj = ResourceManager.GetObject("image", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap image_1 {
-            get {
-                object obj = ResourceManager.GetObject("image 1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -284,16 +244,6 @@ namespace AGssistant_V2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap image_27 {
-            get {
-                object obj = ResourceManager.GetObject("image 27", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap image_28 {
             get {
                 object obj = ResourceManager.GetObject("image 28", resourceCulture);
@@ -317,6 +267,16 @@ namespace AGssistant_V2.Properties {
         internal static System.Drawing.Bitmap image_31 {
             get {
                 object obj = ResourceManager.GetObject("image 31", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap image_311 {
+            get {
+                object obj = ResourceManager.GetObject("image 311", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -367,16 +327,6 @@ namespace AGssistant_V2.Properties {
         internal static System.Drawing.Bitmap image_36 {
             get {
                 object obj = ResourceManager.GetObject("image 36", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap image_37 {
-            get {
-                object obj = ResourceManager.GetObject("image 37", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -444,6 +394,16 @@ namespace AGssistant_V2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mental1 {
+            get {
+                object obj = ResourceManager.GetObject("mental1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mindSymbol {
             get {
                 object obj = ResourceManager.GetObject("mindSymbol", resourceCulture);
@@ -464,9 +424,29 @@ namespace AGssistant_V2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Nature1 {
+            get {
+                object obj = ResourceManager.GetObject("Nature1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pexels_photo_336948_1 {
             get {
                 object obj = ResourceManager.GetObject("pexels-photo-336948 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pexels_photo_336948_11 {
+            get {
+                object obj = ResourceManager.GetObject("pexels-photo-336948 11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

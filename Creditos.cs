@@ -71,5 +71,12 @@ namespace AGssistant_V2
             string url = "https://www.linkedin.com/in/elysiumrev/";
             Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
         }
+
+        private void label2_Click_2(object sender, EventArgs e)
+        {
+            telaInicial telaInicial = new telaInicial();
+            telaInicial.Show();
+            this.Hide();
+        }
     }
 }
