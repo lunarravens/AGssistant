@@ -43,7 +43,9 @@ namespace AGssistant_V2
 
         private void label5_Click(object sender, EventArgs e)
         {
-
+            telaInicial telaInicial = new telaInicial();
+            this.Hide();
+            telaInicial.Show();
         }
 
         private void label7_Click(object sender, EventArgs e)
