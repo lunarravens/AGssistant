@@ -54,5 +54,10 @@ namespace AGssistant_V2
             this.Hide();
             creditos.Show();
         }
+
+        private void checkbox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
