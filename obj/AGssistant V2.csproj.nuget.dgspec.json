@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Desktop\\AGssistant-main\\AGssistant V2.csproj": {}
+    "C:\\Users\\ely\\Projects\\AGssistant\\AGssistant V2.csproj": {}
   },
   "projects": {
-    "L:\\Desktop\\AGssistant-main\\AGssistant V2.csproj": {
+    "C:\\Users\\ely\\Projects\\AGssistant\\AGssistant V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Desktop\\AGssistant-main\\AGssistant V2.csproj",
+        "projectUniqueName": "C:\\Users\\ely\\Projects\\AGssistant\\AGssistant V2.csproj",
         "projectName": "AGssistant V2",
-        "projectPath": "L:\\Desktop\\AGssistant-main\\AGssistant V2.csproj",
-        "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "L:\\Desktop\\AGssistant-main\\obj\\",
+        "projectPath": "C:\\Users\\ely\\Projects\\AGssistant\\AGssistant V2.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Projects\\AGssistant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,13 +43,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.2903.40, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

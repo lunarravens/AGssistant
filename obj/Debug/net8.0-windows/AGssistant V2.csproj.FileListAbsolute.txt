@@ -69,3 +69,19 @@ L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\refint\AGssistant V2.dll
 L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.pdb
 L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
 L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\ref\AGssistant V2.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.csproj.ResolveComReference.cache
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant V2.csproj.AssemblyReference.cache
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssista.C92C6DD4.Up2Date

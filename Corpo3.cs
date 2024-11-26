@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 
 namespace AGssistant_V2
 {
@@ -28,9 +29,13 @@ namespace AGssistant_V2
             label5.BackColor = ColorTranslator.FromHtml("#1c5560");
         }
 
-        private void Corpo3_Load(object sender, EventArgs e)
+        private async void Corpo3_Load(object sender, EventArgs e)
         {
+            // Inicializa o WebView2
+            await webView21.EnsureCoreWebView2Async();
 
+            // Carregar o primeiro vídeo
+            LoadVideo("L6ZgzJKfERM");
         }
 
         private void label6_Click(object sender, EventArgs e)
@@ -52,6 +57,60 @@ namespace AGssistant_V2
             Creditos creditos = new Creditos();
             this.Hide();
             creditos.Show();
+        }
+
+        private void webView21_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LoadVideo(string videoId)
+        {
+            var embedHtml = $@"
+                <html>
+                    <head>
+                        <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+                        <style>
+                            body {{ margin: 0; overflow: hidden; }}
+                            iframe {{ width: 100%; height: 100%; border: none; }}
+                        </style>
+                    </head>
+                    <body>
+                        <iframe 
+                            src='https://www.youtube.com/embed/{videoId}?autoplay=1' 
+                            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen' 
+                            allowfullscreen>
+                        </iframe>
+                    </body>
+                </html>";
+
+            // Carrega o HTML no WebView2
+            webView21.NavigateToString(embedHtml);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LoadVideo("dQw4w9WgXcQ"); // Novo vídeo
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            LoadVideo("L6ZgzJKfERM"); // Volta para o primeiro vídeo
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
