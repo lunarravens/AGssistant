@@ -43,3 +43,29 @@ C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Seguranc
 C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.MenteInicial.resources
 C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Mente2.resources
 C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssistant_V2.Mente3.resources
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AGssistant V2.exe
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AGssistant V2.deps.json
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AGssistant V2.runtimeconfig.json
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AGssistant V2.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AGssistant V2.pdb
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Corpo.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Corpo2.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Corpo3.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Creditos.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Mente2.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Mente3.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.MenteInicial.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Properties.Resources.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.Seguranca2.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.SegurancaInicial.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant_V2.telaInicial.resources
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.csproj.GenerateResource.cache
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.GeneratedMSBuildEditorConfig.editorconfig
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfoInputs.cache
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.AssemblyInfo.cs
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.csproj.CoreCompileInputs.cache
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.dll
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\refint\AGssistant V2.dll
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.pdb
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.genruntimeconfig.cache
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\ref\AGssistant V2.dll

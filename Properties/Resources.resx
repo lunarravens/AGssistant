@@ -127,6 +127,9 @@
   <data name="pexels-photo-336948 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\pexels-photo-336948 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="oquefiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\oquefiz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="image 34" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 34.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -147,6 +150,9 @@
   </data>
   <data name="BemVindo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\BemVindo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mindSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\mindSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -253,7 +259,7 @@
   <data name="idoso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\idoso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 37" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="oquevis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\oquevis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
