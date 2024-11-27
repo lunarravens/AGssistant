@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
@@ -27,6 +28,13 @@ namespace AGssistant_V2
             this.CenterToScreen();
             label2.BackColor = ColorTranslator.FromHtml("#1c5560");
             label3.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
+        }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
 
         private void Seguranca2_Load(object sender, EventArgs e)
@@ -53,6 +61,23 @@ namespace AGssistant_V2
             SegurancaInicial segurancaInicial = new SegurancaInicial();
             this.Hide();
             segurancaInicial.Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            string url = "https://www.konsi.com.br/postagens/dicas-para-evitar-fraudes-e-golpes-a-idosos-aposentados-e-pensionistas";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            string url = "https://www.kdcare.com.br/acessibilidade-para-idosos-5-dicas-para-deixar-sua-casa-mais/ ";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
         }
     }
 }

@@ -39,6 +39,11 @@
             checkbox1 = new CheckBox();
             label2 = new Label();
             label8 = new Label();
+            label9 = new Label();
+            label10 = new Label();
+            label11 = new Label();
+            label12 = new Label();
+            label13 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -76,6 +81,7 @@
             label3.Name = "label3";
             label3.Size = new Size(893, 577);
             label3.TabIndex = 20;
+            label3.Click += label3_Click;
             // 
             // label4
             // 
@@ -95,6 +101,7 @@
             label6.Name = "label6";
             label6.Size = new Size(291, 260);
             label6.TabIndex = 22;
+            label6.Click += label6_Click;
             // 
             // checkBox3
             // 
@@ -152,12 +159,72 @@
             label8.Size = new Size(531, 41);
             label8.TabIndex = 27;
             // 
+            // label9
+            // 
+            label9.BackColor = Color.FromArgb(28, 85, 96);
+            label9.Cursor = Cursors.Hand;
+            label9.Image = Properties.Resources.playButton;
+            label9.Location = new Point(24, 366);
+            label9.Name = "label9";
+            label9.Size = new Size(53, 53);
+            label9.TabIndex = 28;
+            label9.Click += label9_Click;
+            // 
+            // label10
+            // 
+            label10.BackColor = Color.FromArgb(28, 85, 96);
+            label10.Cursor = Cursors.Hand;
+            label10.Image = Properties.Resources.playButton;
+            label10.Location = new Point(24, 453);
+            label10.Name = "label10";
+            label10.Size = new Size(53, 53);
+            label10.TabIndex = 29;
+            label10.Click += label10_Click;
+            // 
+            // label11
+            // 
+            label11.BackColor = Color.FromArgb(28, 85, 96);
+            label11.Cursor = Cursors.Hand;
+            label11.Image = Properties.Resources.BOTAO_FINAl;
+            label11.Location = new Point(29, 531);
+            label11.Name = "label11";
+            label11.Size = new Size(44, 44);
+            label11.TabIndex = 30;
+            label11.Click += label11_Click;
+            // 
+            // label12
+            // 
+            label12.BackColor = Color.FromArgb(28, 85, 96);
+            label12.Cursor = Cursors.Hand;
+            label12.Image = Properties.Resources.BOTAO_FINAl;
+            label12.Location = new Point(29, 575);
+            label12.Name = "label12";
+            label12.Size = new Size(44, 44);
+            label12.TabIndex = 31;
+            label12.Click += label12_Click;
+            // 
+            // label13
+            // 
+            label13.BackColor = Color.FromArgb(28, 85, 96);
+            label13.Cursor = Cursors.Hand;
+            label13.Image = Properties.Resources.BOTAO_FINAl;
+            label13.Location = new Point(29, 620);
+            label13.Name = "label13";
+            label13.Size = new Size(44, 44);
+            label13.TabIndex = 32;
+            label13.Click += label13_Click;
+            // 
             // Mente3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 251, 205);
             ClientSize = new Size(1350, 729);
+            Controls.Add(label13);
+            Controls.Add(label12);
+            Controls.Add(label11);
+            Controls.Add(label10);
+            Controls.Add(label9);
             Controls.Add(checkBox3);
             Controls.Add(checkBox2);
             Controls.Add(checkbox1);
@@ -189,5 +256,10 @@
         private CheckBox checkbox1;
         private Label label2;
         private Label label8;
+        private Label label9;
+        private Label label10;
+        private Label label11;
+        private Label label12;
+        private Label label13;
     }
 }

@@ -26,6 +26,13 @@ namespace AGssistant_V2
             this.CenterToScreen();
             label2.BackColor = ColorTranslator.FromHtml("#1c5560");
             label3.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
+        }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
 
         private void SegurancaInicial_Load(object sender, EventArgs e)
@@ -55,6 +62,11 @@ namespace AGssistant_V2
         }
 
         private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

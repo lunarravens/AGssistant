@@ -26,6 +26,14 @@ namespace AGssistant_V2
             this.CenterToScreen();
             label6.BackColor = ColorTranslator.FromHtml("#1c5560");
             label7.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
+        }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            // Fecha corretamente o aplicativo, liberando todos os recursos
+            Application.Exit();
         }
 
         private void Corpo2_Load(object sender, EventArgs e)
@@ -59,6 +67,11 @@ namespace AGssistant_V2
             Creditos creditos = new Creditos();
             this.Hide();
             creditos.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

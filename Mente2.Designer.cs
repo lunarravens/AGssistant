@@ -45,6 +45,7 @@
             label3.Name = "label3";
             label3.Size = new Size(893, 577);
             label3.TabIndex = 5;
+            label3.Click += label3_Click;
             // 
             // label1
             // 
@@ -87,7 +88,7 @@
             // 
             label5.Cursor = Cursors.Hand;
             label5.Image = Properties.Resources.Vector_1_;
-            label5.Location = new Point(24, 21);
+            label5.Location = new Point(12, 18);
             label5.Name = "label5";
             label5.Size = new Size(112, 112);
             label5.TabIndex = 17;

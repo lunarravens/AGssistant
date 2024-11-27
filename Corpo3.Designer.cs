@@ -40,11 +40,11 @@
             checkbox1 = new CheckBox();
             label7 = new Label();
             webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
+            label9 = new Label();
+            label10 = new Label();
+            label8 = new Label();
+            label11 = new Label();
+            label12 = new Label();
             ((System.ComponentModel.ISupportInitialize)webView21).BeginInit();
             SuspendLayout();
             // 
@@ -63,9 +63,11 @@
             label2.Name = "label2";
             label2.Size = new Size(877, 576);
             label2.TabIndex = 1;
+            label2.Click += label2_Click;
             // 
             // label3
             // 
+            label3.Cursor = Cursors.Hand;
             label3.Image = Properties.Resources.image_26;
             label3.Location = new Point(936, 158);
             label3.Name = "label3";
@@ -83,6 +85,7 @@
             // 
             // label6
             // 
+            label6.Cursor = Cursors.Hand;
             label6.Image = Properties.Resources.Vector_1_;
             label6.Location = new Point(24, 21);
             label6.Name = "label6";
@@ -159,55 +162,60 @@
             webView21.ZoomFactor = 1D;
             webView21.Click += webView21_Click_1;
             // 
-            // button1
+            // label9
             // 
-            button1.Location = new Point(458, 306);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 27;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            label9.BackColor = Color.FromArgb(28, 85, 96);
+            label9.Cursor = Cursors.Hand;
+            label9.Image = Properties.Resources.Video_11;
+            label9.Location = new Point(313, 287);
+            label9.Name = "label9";
+            label9.Size = new Size(103, 46);
+            label9.TabIndex = 32;
+            label9.Click += label9_Click;
             // 
-            // button2
+            // label10
             // 
-            button2.Location = new Point(539, 306);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 28;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            label10.BackColor = Color.FromArgb(28, 85, 96);
+            label10.Cursor = Cursors.Hand;
+            label10.Image = Properties.Resources.Video_2;
+            label10.Location = new Point(419, 287);
+            label10.Name = "label10";
+            label10.Size = new Size(103, 46);
+            label10.TabIndex = 33;
+            label10.Click += label10_Click;
             // 
-            // button3
+            // label8
             // 
-            button3.Location = new Point(620, 306);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 29;
-            button3.Text = "button3";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
+            label8.BackColor = Color.FromArgb(28, 85, 96);
+            label8.Cursor = Cursors.Hand;
+            label8.Image = Properties.Resources.Video_3;
+            label8.Location = new Point(528, 287);
+            label8.Name = "label8";
+            label8.Size = new Size(103, 46);
+            label8.TabIndex = 34;
+            label8.Click += label8_Click;
             // 
-            // button4
+            // label11
             // 
-            button4.Location = new Point(701, 306);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 30;
-            button4.Text = "button4";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            label11.BackColor = Color.FromArgb(28, 85, 96);
+            label11.Cursor = Cursors.Hand;
+            label11.Image = Properties.Resources.Video_4;
+            label11.Location = new Point(637, 287);
+            label11.Name = "label11";
+            label11.Size = new Size(103, 46);
+            label11.TabIndex = 35;
+            label11.Click += label11_Click;
             // 
-            // button5
+            // label12
             // 
-            button5.Location = new Point(782, 306);
-            button5.Name = "button5";
-            button5.Size = new Size(75, 23);
-            button5.TabIndex = 31;
-            button5.Text = "button5";
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += button5_Click;
+            label12.BackColor = Color.FromArgb(28, 85, 96);
+            label12.Cursor = Cursors.Hand;
+            label12.Image = Properties.Resources.Video_5;
+            label12.Location = new Point(746, 286);
+            label12.Name = "label12";
+            label12.Size = new Size(103, 46);
+            label12.TabIndex = 36;
+            label12.Click += label12_Click;
             // 
             // Corpo3
             // 
@@ -215,11 +223,11 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 251, 205);
             ClientSize = new Size(1350, 729);
-            Controls.Add(button5);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(label12);
+            Controls.Add(label11);
+            Controls.Add(label8);
+            Controls.Add(label10);
+            Controls.Add(label9);
             Controls.Add(webView21);
             Controls.Add(checkBox3);
             Controls.Add(checkBox2);
@@ -253,10 +261,10 @@
         private CheckBox checkbox1;
         private Label label7;
         private Microsoft.Web.WebView2.WinForms.WebView2 webView21;
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
-        private Button button5;
+        private Label label8;
+        private Label label9;
+        private Label label10;
+        private Label label11;
+        private Label label12;
     }
 }

@@ -90,6 +90,7 @@ namespace AGssistant_V2
             label3.Name = "label3";
             label3.Size = new Size(427, 551);
             label3.TabIndex = 11;
+            label3.Click += label3_Click_2;
             // 
             // label5
             // 
@@ -106,6 +107,7 @@ namespace AGssistant_V2
             label6.Name = "label6";
             label6.Size = new Size(453, 88);
             label6.TabIndex = 13;
+            label6.Click += label6_Click_1;
             // 
             // label7
             // 
@@ -158,6 +160,7 @@ namespace AGssistant_V2
             // 
             // label18
             // 
+            label18.Cursor = Cursors.Hand;
             label18.Image = Properties.Resources.Vector_1_;
             label18.Location = new Point(24, 21);
             label18.Name = "label18";

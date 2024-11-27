@@ -53,6 +53,7 @@
             label3.Name = "label3";
             label3.Size = new Size(893, 578);
             label3.TabIndex = 11;
+            label3.Click += label3_Click;
             // 
             // label4
             // 
@@ -64,6 +65,7 @@
             // 
             // label5
             // 
+            label5.Cursor = Cursors.Hand;
             label5.Image = (Image)resources.GetObject("label5.Image");
             label5.Location = new Point(961, 160);
             label5.Name = "label5";
@@ -73,6 +75,7 @@
             // 
             // label1
             // 
+            label1.Cursor = Cursors.Hand;
             label1.Image = Properties.Resources.Vector_1_;
             label1.Location = new Point(12, 18);
             label1.Name = "label1";
@@ -90,7 +93,7 @@
             label6.TabIndex = 15;
             label6.Click += label6_Click;
             // 
-            // menteInicial
+            // MenteInicial
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -102,7 +105,7 @@
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
-            Name = "menteInicial";
+            Name = "MenteInicial";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Para a mente - Página 1";
             Load += menteInicial_Load;

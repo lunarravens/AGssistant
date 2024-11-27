@@ -29,6 +29,13 @@ namespace AGssistant_V2
             label2.BackColor = ColorTranslator.FromHtml("#1c5560");
 
             this.CenterToScreen();
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
+        }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
 
         private void label7_Click(object sender, EventArgs e)
@@ -77,6 +84,16 @@ namespace AGssistant_V2
             telaInicial telaInicial = new telaInicial();
             telaInicial.Show();
             this.Hide();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -38,6 +38,8 @@
             checkbox1 = new CheckBox();
             checkBox2 = new CheckBox();
             checkBox3 = new CheckBox();
+            label9 = new Label();
+            label8 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -75,6 +77,7 @@
             label4.Name = "label4";
             label4.Size = new Size(877, 576);
             label4.TabIndex = 14;
+            label4.Click += label4_Click;
             // 
             // label5
             // 
@@ -141,12 +144,36 @@
             checkBox3.Text = "Adaptei meu ambiente";
             checkBox3.UseVisualStyleBackColor = false;
             // 
+            // label9
+            // 
+            label9.BackColor = Color.FromArgb(28, 85, 96);
+            label9.Cursor = Cursors.Hand;
+            label9.Image = Properties.Resources.playButton;
+            label9.Location = new Point(12, 383);
+            label9.Name = "label9";
+            label9.Size = new Size(53, 53);
+            label9.TabIndex = 29;
+            label9.Click += label9_Click;
+            // 
+            // label8
+            // 
+            label8.BackColor = Color.FromArgb(28, 85, 96);
+            label8.Cursor = Cursors.Hand;
+            label8.Image = Properties.Resources.playButton;
+            label8.Location = new Point(12, 570);
+            label8.Name = "label8";
+            label8.Size = new Size(53, 53);
+            label8.TabIndex = 30;
+            label8.Click += label8_Click;
+            // 
             // Seguranca2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 251, 205);
             ClientSize = new Size(1350, 729);
+            Controls.Add(label8);
+            Controls.Add(label9);
             Controls.Add(checkBox3);
             Controls.Add(checkBox2);
             Controls.Add(checkbox1);
@@ -176,5 +203,7 @@
         private CheckBox checkbox1;
         private CheckBox checkBox2;
         private CheckBox checkBox3;
+        private Label label9;
+        private Label label8;
     }
 }

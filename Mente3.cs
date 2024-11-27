@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
@@ -27,7 +28,15 @@ namespace AGssistant_V2
 
             label5.BackColor = ColorTranslator.FromHtml("#1c5560");
             label7.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
         }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
+
 
         private void Mente3_Load(object sender, EventArgs e)
         {
@@ -58,6 +67,46 @@ namespace AGssistant_V2
         private void checkbox1_CheckedChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            string url = "https://www.geniol.com.br/passatempos/jogo-da-memoria/#google_vignette";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+            string url = "https://rachacuca.com.br/palavras/palavras-cruzadas/";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+            string url = "https://sudoku.com/pt";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+            string url = "https://term.ooo";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+            string url = "https://rachacuca.com.br/palavras/caca-palavras/";
+            Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
         }
     }
 }

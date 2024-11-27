@@ -26,6 +26,13 @@ namespace AGssistant_V2
 
             label5.BackColor = ColorTranslator.FromHtml("#1c5560");
             label7.BackColor = ColorTranslator.FromHtml("#1c5560");
+
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MeuForm_FormClosing);
+        }
+
+        private void MeuForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
 
         private void label5_Click(object sender, EventArgs e)
@@ -54,6 +61,11 @@ namespace AGssistant_V2
             MenteInicial menteInicial = new MenteInicial();
             this.Hide();
             menteInicial.Show();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

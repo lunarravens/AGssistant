@@ -35,27 +35,27 @@ namespace AGssistant_V2
             await webView21.EnsureCoreWebView2Async();
 
             // Carregar o primeiro vídeo
-            LoadVideo("L6ZgzJKfERM");
+            LoadVideo("5Mmq-Mr05Oc");
         }
 
         private void label6_Click(object sender, EventArgs e)
         {
             telaInicial telaInicial = new telaInicial();
             telaInicial.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
             Corpo2 corpo2 = new Corpo2();
             corpo2.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void label5_Click(object sender, EventArgs e)
         {
             Creditos creditos = new Creditos();
-            this.Hide();
+            this.Close();
             creditos.Show();
         }
 
@@ -90,7 +90,7 @@ namespace AGssistant_V2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            LoadVideo("dQw4w9WgXcQ"); // Novo vídeo
+            LoadVideo("5Mmq-Mr05Oc"); // Novo vídeo
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -109,6 +109,36 @@ namespace AGssistant_V2
         }
 
         private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            LoadVideo("5Mmq-Mr05Oc");
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+            LoadVideo("9cKe2I-Ta14");
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            LoadVideo("fq3usJz2uEw");
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+            LoadVideo("g4HpK7vd1VI");
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+            LoadVideo("OwCTukZyEmA");
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
