@@ -85,3 +85,19 @@ C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2
 C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
 C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\ely\Projects\AGssistant\obj\Debug\net8.0-windows\AGssista.C92C6DD4.Up2Date
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.csproj.AssemblyReference.cache
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\Interop.SHDocVw.dll
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssistant V2.csproj.ResolveComReference.cache
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\Interop.SHDocVw.dll
+L:\Desktop\AGssistant-main\bin\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+L:\Desktop\AGssistant-main\obj\Debug\net8.0-windows\AGssista.C92C6DD4.Up2Date

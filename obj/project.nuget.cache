@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YB+xoXJd9cs=",
+  "dgSpecHash": "HcPMr8JfsDw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ely\\Projects\\AGssistant\\AGssistant V2.csproj",
+  "projectFilePath": "L:\\Desktop\\AGssistant-main\\AGssistant V2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ely\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
+    "C:\\Users\\super\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
   ],
   "logs": []
 }

@@ -124,11 +124,11 @@
   <data name="image 31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="image 29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pexels-photo-336948 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\pexels-photo-336948 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="oquefiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\oquefiz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image 34" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 34.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -144,6 +144,9 @@
   </data>
   <data name="image 25" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Video 5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,23 +181,38 @@
   <data name="iconInterroga" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\iconInterroga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="playButton2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\playButton2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="idoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\idoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image 33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="headerCorpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\headerCorpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="enqueteButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\enqueteButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="image 33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\image 33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\strSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oquevis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\oquevis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HeaderInicial1366" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\HeaderInicial1366.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enqueteButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\enqueteButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pexels-photo-8939845 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\pexels-photo-8939845 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Video 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pexels-photo-336948 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\pexels-photo-336948 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -211,8 +229,11 @@
   <data name="image 28" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 28.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="strSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\strSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Video 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oquefiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\oquefiz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image 35" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 35.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,8 +244,8 @@
   <data name="image3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image 29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lifeSymbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\lifeSymbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="botaoEnquete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\botaoEnquete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -238,8 +259,8 @@
   <data name="mental1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\mental1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Video 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Transport" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Transport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -247,19 +268,25 @@
   <data name="image 26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Video 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="image 311" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\image 31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pexels-photo-8939845 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\pexels-photo-8939845 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="playButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\playButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Nature1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Nature.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Video 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Video 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="idoso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\idoso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="oquevis" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\oquevis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BOTAO FINAl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\BOTAO FINAl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
