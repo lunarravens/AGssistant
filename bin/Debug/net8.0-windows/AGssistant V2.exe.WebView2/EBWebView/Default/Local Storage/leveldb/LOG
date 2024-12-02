@@ -1,3 +1,2 @@
-2024/11/26-17:01:31.263 3960 Reusing MANIFEST C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2024/11/26-17:01:31.297 3960 Recovering log #3
-2024/11/26-17:01:31.303 3960 Reusing old log C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2024/12/02-14:28:19.187 ef4 Creating DB C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
+2024/12/02-14:28:19.214 ef4 Reusing MANIFEST C:\Users\ely\Projects\AGssistant\bin\Debug\net8.0-windows\AGssistant V2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001

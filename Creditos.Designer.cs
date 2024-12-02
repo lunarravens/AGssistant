@@ -54,7 +54,7 @@
             // 
             // label3
             // 
-            label3.Image = (Image)resources.GetObject("label3.Image");
+            label3.Image = Properties.Resources.image_68_1_;
             label3.Location = new Point(12, 155);
             label3.Name = "label3";
             label3.Size = new Size(857, 233);
